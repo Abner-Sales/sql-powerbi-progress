@@ -1,10 +1,25 @@
-SQL learning progression repository focused on Data Analysis and Business Intelligence.
+# SQL Portfolio – Learning Progression
 
-This project demonstrates structured practice with:
-• Data filtering and querying
-• Logical conditions
-• Table relationships (INNER / LEFT JOIN)
-• Aggregations using GROUP BY
-• Filtering aggregated data with HAVING
+This repository documents my SQL learning progression focused on **Data Analysis** and **Business Intelligence (BI)** using the **employees sample database**.
 
-Built as part of my journey to become a Data/BI Analyst.
+The goal of this repository is to demonstrate structured SQL practice and build a strong technical foundation for real analytical projects.
+
+---
+
+## Topics Covered
+
+The SQL scripts in this repository cover the following concepts:
+
+- SELECT
+- WHERE filtering
+- Logical operators (AND / OR)
+- JOINs (INNER / LEFT / RIGHT)
+- GROUP BY
+- HAVING
+- Scalar Subqueries
+- Subqueries using IN
+- Subqueries using EXISTS
+
+---
+
+## Repository Structure
